@@ -1,6 +1,6 @@
 # gradient-based-ica
 
-tood: place experiments in separate files rather than keeping them in the notebooks
+todo: non-linear source separation
 
 todo: keep models in a model file to be imported
 
