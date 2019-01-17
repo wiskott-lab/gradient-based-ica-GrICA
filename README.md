@@ -1,6 +1,6 @@
 # gradient-based-ica
 
-todo: try learning features for (action recognition)[https://arxiv.org/abs/1603.08561]
+todo: try learning features for [action recognition](https://arxiv.org/abs/1603.08561)
 
 todo: try another experiments to validate the method, for example the separation of elephants from savannas
 
