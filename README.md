@@ -2,7 +2,7 @@
 
 todo: try learning features for [action recognition](https://arxiv.org/abs/1603.08561)
 
-todo: learn features on imagenet, visualize first layer features and look at closest feature-space neighbors of images - cf. [NAT](https://arxiv.org/pdf/1704.05310.pdf)
+todo: learn features on imagenet, visualize first layer features and look at closest feature-space neighbors of images - cf. [NAT](https://arxiv.org/pdf/1704.05310.pdf) and [check this out](http://cs231n.github.io/understanding-cnn/)
 
 (todo: try another experiments to validate the method, for example the separation of elephants from savannas) too high dimensional output
 
