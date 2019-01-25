@@ -2,7 +2,9 @@
 
 todo: try learning features for [action recognition](https://arxiv.org/abs/1603.08561)
 
-todo: try another experiments to validate the method, for example the separation of elephants from savannas
+todo: learn features on imagenet, visualize first layer features and look at closest feature-space neighbors of images - cf. [NAT](https://arxiv.org/pdf/1704.05310.pdf)
+
+(todo: try another experiments to validate the method, for example the separation of elephants from savannas) too high dimensional output
 
 todo: update old experiments such that they reset the estimator part after each encoder update, instead of tacking a regularizer onto the whole thing. this can be done by only saving the list of estimator variables after each update.
 
