@@ -1,2 +1,1 @@
-# gradient-based-ica
-
+# GrICA
